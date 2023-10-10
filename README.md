@@ -28,4 +28,8 @@ Para executar o projeto, basta fazer o download ou clonar este repositório em s
 
 Este projeto é licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
 
-![Vídeo do Site](https://imgur.com/DtOnetA.mp4)
+![Vídeo do Site]([https://imgur.com/DtOnetA.mp4](https://github.com/Allan-Carlos/Relogio-Digital/assets/89498717/f268afe4-3b25-4470-934d-b955f806fa1f)https://github.com/Allan-Carlos/Relogio-Digital/assets/89498717/f268afe4-3b25-4470-934d-b955f806fa1f)
+
+
+
+
