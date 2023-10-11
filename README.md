@@ -1,5 +1,7 @@
 # Relógio Digital
 
+Esse é um código que eu fiz com o auxílio do tutorial da [Larissa Kich]([https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ/featured](https://www.youtube.com/@larissakich)). Esse site tem belos efeitos em seus botões, entre nele e teste!!
+
 ## Demo
 
 [Clique aqui](https://allan-carlos.github.io/Relogio-Digital/) e você será redirecionado(a) para o site.
@@ -12,7 +14,7 @@
 
 ## Aprendizados
 
-Neste projeto, fiz o uso basicamente da biblioteca new Data, do JavaScript. Fiquei muito feliz com o resultado! (O estilo do site foi pego neste [vídeo](https://www.youtube.com/watch?v=GK0ok3ZCXwM)
+Neste projeto, fiz o uso basicamente da biblioteca new Data, do JavaScript. Fiquei muito feliz com o resultado!
 
 ## Como Executar o Projeto
 
