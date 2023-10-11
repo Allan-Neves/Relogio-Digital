@@ -1,6 +1,6 @@
 # Relógio Digital
 
-Esse é um código que eu fiz com o auxílio do tutorial da [Larissa Kich]([https://www.youtube.com/channel/UCXpt0pR8Qo5C67Y--xQpJAQ/featured](https://www.youtube.com/@larissakich)). Esse site tem belos efeitos em seus botões, entre nele e teste!!
+Esse é um código que eu fiz com o auxílio do tutorial da [Larissa Kich](https://www.youtube.com/@larissakich). Esse site tem belos efeitos em seus botões, entre nele e teste!!
 
 ## Demo
 
