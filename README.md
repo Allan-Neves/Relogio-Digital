@@ -4,7 +4,7 @@ Esse é um código que eu fiz com o auxílio do tutorial da [Larissa Kich](https
 
 ## Demo
 
-[Clique aqui](https://allan-carlos.github.io/Relogio-Digital/) e você será redirecionado(a) para o site.
+[Clique aqui](https://allan-neves.github.io/Relogio-Digital/) e você será redirecionado(a) para o site.
 
 ## Tecnologias Usadas
 
